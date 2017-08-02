@@ -2,7 +2,7 @@
 An Array prototype recursive, yet simple function to flatten a multi-dimensional array, putting all non-array-elements into a one dimensional array.
 
 # Usage
-You can use this function for any multi-dimensional array you define, by simply call the merge function of the Array instance:
+You can use this function for any multi-dimensional array you define, by simply call the ```flatten``` function of the Array instance:
 ```js
 //an arbitary multi-dimensional array
 var multiArr = [1,2,3,[1,[3,[2]],6],[1,6,8],[7,2,6],[1,[2,[5,[[5,2,1]],6,8,1],2,3,5],1],8];
