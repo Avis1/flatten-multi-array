@@ -1,5 +1,5 @@
 # flatten-multi-array
-An Array prototype recursive, yet simple function to flatten a multi-dimensional array, putting all non-array-elements into a onde dimensional array.
+An Array prototype recursive, yet simple function to flatten a multi-dimensional array, putting all non-array-elements into a one dimensional array.
 
 # Usage
 You can use this function for any multi-dimensional array you define, by simply call the merge function of the Array instance:
